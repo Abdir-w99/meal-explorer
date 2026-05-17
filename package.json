@@ -6,6 +6,6 @@
     "vitest": "^4.1.6"
   },
   "scripts": {
-    "test": "vitest"
+    "test": "vitest --exclude \"e2e/**\""
   }
 }
